@@ -1,3 +1,4 @@
+const data=require('./alternative_flavour')
 const name="raja";
-
-console.log(name);
+require('./mind_grinade')
+console.log(data);
